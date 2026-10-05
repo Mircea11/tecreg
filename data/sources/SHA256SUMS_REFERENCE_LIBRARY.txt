@@ -1,0 +1,9 @@
+76309d7b3aafe8d227fb0891836573f99f63d498981e83782e9f20c6dd474a11  /home/mi/techreg/data/sources/eu/guidance/OFF-001_EC_AI_Act_Regulatory_Framework_current.html
+bba630444b3278e881066774002a1d7824308934f49ccfa203e65be43692f55e  /home/mi/techreg/data/sources/eu/original/REG-001_AI_Act_2024-1689_EN_OJ.pdf
+bd84e63f5b622b739a83389afc3b30d240f792bb88d8eb03a816c9a82b0c2499  /home/mi/techreg/data/sources/eu/original/REG-002_GDPR_2016-679_EN_OJ.pdf
+20d29e9c5300ae1095530996f04731311bf82bb7d4d6a7a0102cd0f075755cf3  /home/mi/techreg/data/sources/eu/original/REG-003_NIS2_2022-2555_EN_OJ.pdf
+e3ecaabddf6e321fa04097d15dfcccc7309d0fe5896240ab7625a27d74ab1b0a  /home/mi/techreg/data/sources/eu/original/REG-005_CRA_2024-2847_EN_OJ.pdf
+0d100d513136adfaa5655d77784d3af00f477b8588471cbb51dea7aff8687838  /home/mi/techreg/data/sources/eu/original/REG-006_Data_Act_2023-2854_EN_OJ.pdf
+e8e3b3ea69f17967970035e3bb24a709c99c20df18eff3efcc72945667a5b637  /home/mi/techreg/data/sources/eu/original/REG-007_Machinery_2023-1230_EN_OJ.pdf
+e7ed1b47d41094f45a688fb2a693d6bf48bd02ed69750627845ede506cea14fe  /home/mi/techreg/data/sources/eu/original/REG-008_DSM_Copyright_Directive_2019-790_EN.pdf
+877ad96f1b955fd7b1afd6eba23f569437fd07f1af28ab0229fa8a7c9fdbc154  /home/mi/techreg/data/sources/practice/wilmerhale/PRAC-006_WilmerHale_High_Risk_AI_Systems_2024.html

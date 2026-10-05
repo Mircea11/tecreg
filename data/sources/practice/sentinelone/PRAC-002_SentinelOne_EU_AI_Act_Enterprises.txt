@@ -1,0 +1,313 @@
+
+The EU Artificial
+Intelligence Act
+What Enterprises Need to Know
+2SENTINELONETHE EU ARTIFICIAL INTELLIGENCE ACT: WHAT ENTERPRISES NEED TO KNOW
+Introduction to the EU AI Act
+In March 2024, the European Parliament approved the Artificial Intelligence Act, widely regarded as the
+world’s first comprehensive AI regulatory framework of this scale. The final Regulation entered into force on
+August 1, 2024, with obligations applying on a phased timeline starting the compliance clock for many organi-
+zations developing, deploying, or making AI systems available in the EU. Several key milestones have already
+passed. The EU AI Act’s ban on certain prohibited AI practices took effect in February 2025. New obligations
+for providers of General-Purpose AI (GPAI) models became applicable in August 2025. The majority of the EU
+AI Act’s obligations, including transparency requirements and requirements for many high-risk AI systems,
+apply from August 2026.
+Note: The EU AI Act implementation timeline is currently subject to potential changes as part of the EU’s
+Digital Omnibus simplification process. Unless and until changes are formally adopted, organizations should
+prepare against the current applicable deadlines and monitor for updates.
+The EU AI Act aims to address risks, promote trustworthy and responsible AI, and establish standards for AI
+applications. It sets out to promote safe and lawful AI while protecting health, safety, and fundamental rights,
+all the while encouraging innovation and adoption of AI systems.
+The EU AI Act defines an AI system as a machine-based system designed to operate with varying levels of au-
+tonomy, that may exhibit adaptiveness after deployment, and that infers, from input, how to generate outputs
+such as predictions, content, recommendations, or decisions that can influence physical or virtual environ-
+ments. This definition is the harmonized standard across all EU member states.
+A threshold step for any EU AI Act assessment is determining the organization’s role. An enterprise may
+be a deployer for some AI systems, a provider for others, and may take on additional obligations if it places
+an AI system on the EU market under its own name or trademark, substantially modifies an AI system, or
+changes its intended purpose. Role allocation should therefore be assessed on a system-by-system and
+use-case-by-use-case basis.
+GenAI systems are not automatically high-risk solely because they use generative AI; however, the way they
+are developed, marketed, deployed, or used can make them high-risk. How GenAI systems are categorized in
+terms of risk depends on how they are developed, provided, deployed, or repurposed. GenAI is a technology
+description, not a risk category under the Act. A single GenAI system may span multiple risk tiers depending
+on its use case.
+To deploy GenAI responsibly and reduce compliance risk, organizations need a clear picture of what the Act
+demands and where they stand today.
+This document is provided for general informational purposes only and does not constitute legal advice. It is intended to provide
+a high-level overview of selected EU AI Act considerations and is not exhaustive. The EU AI Act is complex and evolving, and
+organizations should consult their legal advisors to assess their specific obligations based on their role, AI systems, use cases,
+deployment context, and applicable regulatory guidance.
+3SENTINELONETHE EU ARTIFICIAL INTELLIGENCE ACT: WHAT ENTERPRISES NEED TO KNOW
+How Does the EU AI Act Apply
+to GenAI Systems?
+The EU AI Act is often explained through four risk tiers for AI systems placed on the market or put into service
+in the EU. Before diving into the four tiers, organizations should remember that some EU AI Act obligations
+apply regardless of risk category. For example, providers and deployers must ensure sufficient AI literacy
+among relevant staff.
+Here are the four tiers:
+1. Minimal Risk
+Minimal-risk systems carry no additional risk-category mandatory obligations under the EU AI Act,
+though voluntary codes of conduct for responsible use are encouraged.
+2. Limited Risk / Transparency Obligations
+AI systems commonly described as “limited risk” are generally those whose main EU AI Act obligations
+are transparency obligations.
+Transparency obligations apply from August 2, 2026. These obligations sit outside the tier classification
+and apply across AI system types based on specific characteristics or use cases. They cover AI systems
+intended to interact directly with humans, systems that generate synthetic content, emotion recognition
+or biometric categorization systems, deepfakes, and certain AI-generated text disclosures. For example,
+an AI-powered chatbot on a customer service website may include a disclaimer reading “You are chatting
+with an AI assistant.”
+3. High Risk
+In addition to transparency obligations where applicable, high-risk systems are subject to extensive re-
+quirements. A system may be high-risk because it is part of a regulated product, such as certain medical
+devices or machinery, or because it is used in a sensitive area listed in the EU AI Act, such as employment,
+education, access to essential services, law enforcement, migration, or administration of justice.
+4. Unacceptable Risk
+AI practices presenting unacceptable risk are prohibited under the EU AI Act. Prohibited practices include:
+• use harmful manipulation or exploit vulnerabilities in ways that materially distort behavior and cause,
+or are likely to cause, significant harm;
+• conduct prohibited social scoring;
+• assess criminal-offense risk based solely on profiling or personality traits, subject to the EU AI Act’s
+exception for systems supporting human assessments based on objective facts;
+• create or expand facial-recognition databases through untargeted scraping from the internet or
+CCTV footage;
+• infer emotions in workplace or education settings, except for medical or safety reasons;
+• use biometric categorization to infer protected characteristics; or
+• use real-time remote biometric identification in public spaces for law enforcement, except in the
+limited cases permitted by the EU AI Act.
+Part 1
+4SENTINELONETHE EU ARTIFICIAL INTELLIGENCE ACT: WHAT ENTERPRISES NEED TO KNOW
+These prohibitions have been in full effect since February 2, 2025. AI practices that fall within these prohibited
+categories may trigger the EU AI Act’s highest tier of administrative fines.
+General-Purpose AI (GPAI)
+GPAI and GenAI are not the same thing. A GPAI model is a model trained on large amounts of data that dis-
+plays significant generality and is capable of competently performing a wide range of distinct tasks. Many, but
+not all, GenAI systems rely on GPAI models. Since August 2, 2025, all providers of GPAI must supply technical
+documentation and information for downstream AI system providers, implement a policy to comply with EU
+copyright law, publish a summary of training content... GPAI systems that present systemic risk face addi-
+tional obligations, including model evaluations, adversarial testing, serious incident tracking, and adequate
+cybersecurity protections.
+The Cross-Cutting Requirement for AI Literacy
+Beyond enforcement mechanisms, the EU AI Act also establishes a key cross-cutting obligation for providers
+and deployers of AI systems that applies regardless of risk tier.
+While much of the EU AI Act focuses on specific risk-based obligations, Article 4 introduces a broad require-
+ment that applies to all providers and deployers of AI systems as of February 2, 2025. All AI providers and
+deployers are legally obligated to ensure a sufficient level of AI literacy among their staff and other persons
+dealing with the operation and use of AI systems on their behalf.
+This means that compliance is not just an IT or Legal problem. It is also an HR and operational issue. Enterpris-
+es must actively train relevant employees to understand the AI tools they use, how they work, the limitations
+of those tools, and the risks they pose regarding privacy, security, and bias.
+5SENTINELONETHE EU ARTIFICIAL INTELLIGENCE ACT: WHAT ENTERPRISES NEED TO KNOW
+Incident Response Preparedness
+A significant portion of the EU AI Act focuses on defining high-risk AI systems and delineating the require-
+ments to which such systems are subject.
+Article 6 of the EU AI Act lays out the criteria that categorize AI systems as high-risk.
+• Article 6(1) covers AI systems linked to certain regulated products, such as medical devices, machinery,
+toys, or lifts, where those products require third-party conformity assessment.
+• Article 6(2) specifies categories of high-risk systems, including areas with high potential for impact
+on humans, by referring to the use cases listed in Annex III to the EU AI Act (e.g. biometrics, safety
+components in the management and operation of critical digital infrastructure, etc.) which can be
+amended by the European Commission.
+Depending on the system and the organization’s role, high risk systems may entail the
+following obligations:
+Maintain a risk management system and post-market monitoring processes to identify,
+evaluate, and address relevant risks.
+Prepare and maintain required technical documentation, instructions for use, and
+automatic logging capabilities.
+Register certain high-risk AI systems in the EU database, where required.
+Enable effective human oversight, including measures that allow appropriate human
+intervention where required.
+Carry out required risk management measures and, where applicable, fundamental
+rights impact assessments before deployment.
+Apply required data governance and data management practices, including for training,
+validation, and testing data where applicable.
+Complete the applicable conformity assessment procedure before placing the system on
+the market or putting it into service.
+Report serious incidents to the competent authorities where required.
+Note: The EU AI Act implementation timeline is currently subject to potential changes. A provisional agree-
+ment has been reached that would adjust the timeline for applying rules on high-risk AI systems, but has
+not yet been formally adopted. Unless and until changes are formally adopted, organizations should prepare
+against the current applicable deadlines and monitor for updates.
+Part 2
+6SENTINELONETHE EU ARTIFICIAL INTELLIGENCE ACT: WHAT ENTERPRISES NEED TO KNOW
+Conditions for Gaining an Exemption
+From High-Risk Classification
+In addition to specifying categories of high-risk systems, article 6(3) sets out conditions under which certain
+Annex III systems that otherwise would be considered high-risk can become exempt from such categorization.
+The primary requirement for exemption is not posing significant risk of harm to individuals’ health, safety and
+fundamental rights, including by not materially influencing the outcome of decision making.
+To be eligible, a system must not profile humans (doing so automatically disqualifies systems from exemption)
+and must be intended to do one of the following:
+• Perform a narrow procedural task.
+• Improve the result of a previously completed human activity.
+• Detect decision-making patterns or deviations from prior decision-making patterns, without replacing or
+influencing a previously completed human assessment without proper human review.
+• Perform a preparatory task to an assessment relevant for the purposes of the use cases identified as
+high-risk under Annex III.
+Providers relying on this exemption must document their assessment before the system is placed on the mar-
+ket or put into service and provide that documentation to competent authorities upon request.
+Where applicable, providers must register themselves and their AI system in the EU Database for High-Risk
+AI Systems. Providers who have concluded that their system is not high-risk under Article 6(3) may also be
+required to register themselves and the system in the database before placing it on the market or putting it
+into service.
+Part 3
+7SENTINELONETHE EU ARTIFICIAL INTELLIGENCE ACT: WHAT ENTERPRISES NEED TO KNOW
+Data Governance and Security
+Understanding who is responsible for meeting the EU AI Act’s data governance and security requirements can
+be challenging as obligations depend on the AI system, use case, and the organization’s role. From the array
+of misconceptions surrounding these requirements, we have chosen to address three of the most common:
+MISCONCEPTION #1
+“EU AI Act responsibilities are the same for SaaS and on-premise.”
+The EU AI Act does not allocate obligations based on delivery model alone, but rather applies based on the or-
+ganization’s role, the AI system, and the relevant use case. Compliance responsibility differs based on whether
+an organization acts as an importer, a distributor, or in another role defined under the EU AI Act. Understand-
+ing which role applies to your organization is essential for determining your obligations.
+In the case of SaaS deployments, “deployers” – organizations or individuals that use an AI system in a profes-
+sional capacity – access tools via the internet, with third-party “providers” – organizations or individuals that
+develop the AI system or GPAI model and place it on the market or put it into service under their own name or
+trademark – supplying the necessary software and hardware. The applicable obligations for each party will
+depend on the AI system’s risk classification, use case, and each organization’s role under the Act.
+Conversely, with on-premise AI systems, organizations may have greater control over the system, infrastructure,
+configuration, and data flows . While this model may increase the organization’s operational responsibilities and
+affect its role under the EU AI Act, it also offers greater control and customization. With greater oversight and
+access, the organization can more directly manage certain controls relevant to its EU AI Act obligations.
+MISCONCEPTION #2
+“Non-EU organizations are not subject to the EU AI Act’s requirements.”
+The EU AI Act applies to AI systems placed on the EU market, put into service in the EU, or used in a way that
+falls within the Act’s territorial scope, including certain cases where the outputs of an AI system are used in
+the EU. This is without regard for where companies are based.
+MISCONCEPTION #3
+“These requirements may soon become outdated, as the EU AI Act will not
+retain global credibility.”
+The EU’s strong regulatory influence, coupled with its comprehensive approach to managing emerging tech-
+nologies, positions the EU AI Act as a potential cornerstone for AI regulation worldwide. Like how the General
+Data Protection Regulation (GDPR) set a global standard for data protection, the EU AI Act could serve as a
+key reference point for AI governance across different jurisdictions. Just as GDPR compelled most companies
+worldwide to align with European standards, the EU AI Act may influence the development of global AI policies
+and drive greater regulatory convergence.
+Part 4
+8SENTINELONETHE EU ARTIFICIAL INTELLIGENCE ACT: WHAT ENTERPRISES NEED TO KNOW
+Penalties and Enforcement
+Mechanisms
+Violations of the EU AI Act’s provisions may result in the following penalties:
+• Companies that violate the EU AI Act’s prohibited AI practices rules face fines of up to €35 million or up
+to 7% of their total worldwide annual turnover for the preceding financial year.
+• Failure to comply with certain other requirements set by the EU AI Act (e.g. transparency obligations)
+will result in fines of up to €15 million or up to 3% of total worldwide annual turnover for the preceding
+financial year.
+• Supplying notified bodies or national competent authorities with incorrect, incomplete or misleading
+information in reply to a request will result in fines of up to €7.5 million or up to 1% of total worldwide
+annual turnover for the preceding financial year.
+For SMEs (including startups), the fine will be the lower of the two amounts (between the maximum percentage
+and the maximum fixed amount). For all other entities, the fine will be the higher of the two.
+The EU AI Act includes several mechanisms for enforcing compliance with its requirements:
+1. National competent authorities (NCAs)
+Each EU member state designates an NCA (or multiple NCAs) to oversee enforcement of the EU AI Act.
+NCAs are responsible for market surveillance and enforcement within their jurisdiction and have the author-
+ity to conduct inspections, audits and investigations as needed.
+2. The European AI Office and AI Board
+The European AI Office is now active and has supported the development of the GPAI Code of Practice
+published by the European Commission. National Competent Authorities in each member state are now
+responsible for market surveillance and enforcement of the February 2025 prohibitions.
+3. Market Surveillance
+The EU AI Act allows national authorities to conduct inspections, checks and audits of AI systems. Where
+required, it also allows designated conformity assessment bodies to assess whether or not AI systems
+conform with the EU AI Act.
+Part 5
+9SENTINELONETHE EU ARTIFICIAL INTELLIGENCE ACT: WHAT ENTERPRISES NEED TO KNOW
+Preparing AI Systems for Compliance
+To align with the EU AI Act’s requirements, organizations’ security and risk management leaders shouldcatalog
+and analyze AI-enabled use cases so as to better understand these use cases’ defining characteristics. This will
+help them assess the risk of their AI-enabled use cases and identify applicable roles, risk categories, and obliga-
+tions under the EU AI Act.
+The EU AI Act may impose obligations on organizations that deploy AI capabilities embedded in third-party
+tools, so it is especially crucial that organizations understand third-party AI risks. Sourcing, procurement, and
+vendor management representatives should work with vendors to understand where AI is used in third-party
+products and services, and multidisciplinary teams should be formed to address related contractual commit-
+ments, data flows, and operational controls. Standardized vendor questionnaires and vendor attestations can
+help organizations review lower-risk use cases.
+How Prompt Security May Support AI
+Governance and EU AI Act Readiness
+Prompt Security provides capabilities that may help organizations implement technical and operational controls
+to support broader AI governance and EU AI Act readiness efforts:
+• Continuous monitoring and risk assessment: The platform continuously monitors AI tools, homegrown
+AI apps, and AI agents to identify emerging risks across their lifecycle which may support risk
+management and monitoring activities relevant to high-risk AI systems.
+• Data privacy and governance: Prompt Security provides AI-native, context-aware data loss prevention
+across browsers, networks, and APIs, redacting and sanitizing sensitive or copyrighted data before it
+reaches GenAI systems, which may support data governance and data management controls relevant
+under the EU AI Act.
+• Content moderation: Built-in content and output controls help ensure that AI-generated content aligns
+with intended use and block harmful or illegal outputs (such as abusive, unsafe, or non-compliant content),
+which may support safeguards and policy controls relevant to responsible AI use and EU AI Act readiness.
+• Comprehensive visibility: The platform helps discover sanctioned and unsanctioned AI tool usage
+(note: the term “Shadow AI” is not defined under the EU AI Act) and provides logging and monitoring
+of AI interactions, which may support documentation, transparency, and oversight processes relevant
+to AI governance.
+• Adaptation to evolving requirements: Prompt Security is built to support 5,000+ GenAI tools and
+13,000+ MCP servers, including agent frameworks and evolving AI protocols, helping organizations
+adjust governance controls as EU AI Act guidance and enforcement practices evolve.
+• Risk management: The platform enables organizations to establish and enforce granular department-,
+role-, app-, and use-case-specific policies, helping organizations implement controls that reflect a risk-
+based AI governance approach.
+Part 6
+Part 7
+10SENTINELONETHE EU ARTIFICIAL INTELLIGENCE ACT: WHAT ENTERPRISES NEED TO KNOW
+The organizations that act now will not just be compliant. They may be better positioned to move faster with
+AI than their competitors. Visibility and governance over AI usage is no longer just a compliance checkbox. It is
+a competitive advantage. Through these capabilities, Prompt Security helps enterprises build that advantage
+by supporting key elements of their AI governance and compliance programs.
+If you want to learn more about how Prompt Security can help you navigate the EU AI Act
+in your organization, book time with us.
+Sources
+• https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
+• https://eur-lex.europa.eu/eli/dir/2019/790/oj/eng
+• https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+• https://www.gartner.com/en/documents/5327463
+• https://www.gartner.com/en/documents/5488995
+• https://www.gartner.com/en/documents/5736383
+• https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240717-what-are-
+highrisk-ai-systems-within-the-meaning-of-the-eus-ai-act-and-what-requirements-apply-to-them
+Explore
+Prompt
+Security
+Enable your organization
+to adopt AI, securely.
+Take a Tour ->
+Scale AI.
+Not Risk.
+Gain visibility into
+15,000+ AI tools to
+safeguard your data
+without disruption.
+Learn More ->
+Next 
+Securing OpenClaw: AI Agent Security Risks
+Securing OpenClaw: AI Agent Security Risks
+Product Tour
+pdf:Prompt Security
+pdf:Latio AI Security Market Report 2026
+video:Secure AI, Secure Outcomes: See Prompt Security in Action
+pdf:30-Day AI Security Quick Wins Checklist
+pdf:AI and Cloud Verified Exploit Paths and Secrets Scanning Report 2026
+video:Prompt Security Demo
+video:The GenAI Data Crisis: Secure Your Prompts and Transform Your Security Data Streams
+pdf:The EU Artificial Intelligence Act: What Enterprises Need to Know
+video:Securing OpenClaw: AI Agent Security Risks
+pdf:The Convergence of AI and Data Security: An Industry-Wide Technoscope of Unified Agentic Defense Platforms
+webpage:Prompt Security Named in Gartner®️ Cool Vendors™ in AI Security
+pdf:IDC Analyst Connection: Balancing Innovation and Risk - A Secure Path Forward for Healthcare AI
+pdf:Enabling Safe, Controlled AI Across the Enterprise with Prompt Security
+pdf:Securing AI Adoption Across Teams at Cymulate with Prompt Security
+pdf:HiBob Strengthens AI Adoption with Secure Employee-centric Monitoring with Prompt Security
+video:Sécurisez l’adoption de l’IA Générative en entreprise grâce à Prompt Security
+video:Beyond the Prompt- Securing AI to Unleash Innovation
+pdf:Securing AI in the Enterprise: A Defense-in-Depth Blueprint
+pdf:IDC Analyst Connection: Architecting Safe and Compliant AI Adoption in Financial Services
+video:The EU AI Act: A Security Leader's Guide to Acting Now
+video:AI vs. AI The New Battleground for Enterprise Security
+video:AI is Everywhere, Is Yours Secure
+video:AI vs. AI: The New Cyber Battleground
+video:Prompt Security Deep Dive Technical Workshop
+video:AI vs AI Measuring the Frontier: What Cyber Teams Need to Know

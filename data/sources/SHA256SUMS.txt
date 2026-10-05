@@ -1,0 +1,12 @@
+6fdb48cc87c32cde6c2711fecd8d4a9189b02dfdd0b4b35f2cf639c3e3c558a6  /home/mi/techreg/data/sources/be/current/REG-004B_BE_NIS2_Royal_Decree_current_Justel.html
+9daaa3d0c6ff43f3b672bb2a10484f344b0d1f180f9c33ce3a3f9b3871e2e8ab  /home/mi/techreg/data/sources/be/current/REG-004_BE_NIS2_Law_current_Justel.html
+5d2b1a28d6a9432956b7647d0bb60e9dc88a776e97b606aa2c915a3da4188bb8  /home/mi/techreg/data/sources/be/original/REG-004B_BE_NIS2_Royal_Decree_2024-06-09_Official_Gazette.pdf
+0948af7c785bbdeb55087bfb4e6e58f71dcd3c1bfc1bd8271500a1ece6e39e78  /home/mi/techreg/data/sources/be/original/REG-004_BE_NIS2_Law_2024-04-26_Official_Gazette.pdf
+1ccd38d1c78482cf2053b70110115adcc5080700acc8bd7bead8cb3579143ccf  /home/mi/techreg/data/sources/eu/consolidated/REG-001_AI_Act_EN_consolidated_2026-07-27.pdf
+99ef3b87c6811644997e12782de3546499b7a8547c5a699a955a89b57469d244  /home/mi/techreg/data/sources/eu/consolidated/REG-007_Machinery_EN_consolidated_2026-07-27.pdf
+bba630444b3278e881066774002a1d7824308934f49ccfa203e65be43692f55e  /home/mi/techreg/data/sources/eu/original/REG-001_AI_Act_2024-1689_EN_OJ.pdf
+bd84e63f5b622b739a83389afc3b30d240f792bb88d8eb03a816c9a82b0c2499  /home/mi/techreg/data/sources/eu/original/REG-002_GDPR_2016-679_EN_OJ.pdf
+20d29e9c5300ae1095530996f04731311bf82bb7d4d6a7a0102cd0f075755cf3  /home/mi/techreg/data/sources/eu/original/REG-003_NIS2_2022-2555_EN_OJ.pdf
+e3ecaabddf6e321fa04097d15dfcccc7309d0fe5896240ab7625a27d74ab1b0a  /home/mi/techreg/data/sources/eu/original/REG-005_CRA_2024-2847_EN_OJ.pdf
+0d100d513136adfaa5655d77784d3af00f477b8588471cbb51dea7aff8687838  /home/mi/techreg/data/sources/eu/original/REG-006_Data_Act_2023-2854_EN_OJ.pdf
+e8e3b3ea69f17967970035e3bb24a709c99c20df18eff3efcc72945667a5b637  /home/mi/techreg/data/sources/eu/original/REG-007_Machinery_2023-1230_EN_OJ.pdf

@@ -11,3 +11,5 @@ venv/
 
 *.tmp
 *.log
+Old/
+data/sources/standards/iso/metadata/iso_deliverables_metadata.csv
