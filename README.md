@@ -26,5 +26,3 @@ The project aims to reduce the burden of regulatory monitoring for European AI d
 ## Status
 
 Early prototype.
-
-DOmain request : 20260923201732-arf-35677
