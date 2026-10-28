@@ -1,10 +1,10 @@
-# TECHREG — PROJECT BLUEPRINT
+# TECREG — PROJECT BLUEPRINT
 Version: 0.1
 Date: 2026-10-05
 
 ## 1. Purpose
 
-TechReg is a regulatory-intelligence and AI-governance project that turns legislation, governance frameworks and standards into structured, traceable, practical information.
+tecReg is a regulatory-intelligence and AI-governance project that turns legislation, governance frameworks and standards into structured, traceable, practical information.
 
 Primary principle:
 
@@ -25,7 +25,7 @@ EU law is the primary baseline. Japan and South Korea are international comparat
 ## 2. Current project architecture
 
 ```text
-techreg/
+tecreg/
 ├── index.html
 ├── style.css
 ├── assets/
@@ -146,7 +146,7 @@ Typical fields:
 No business interpretation here.
 
 ### Layer 3 — Semantic JSON
-TechReg interpretation of source nodes.
+tecReg interpretation of source nodes.
 
 Common concepts:
 - scope
@@ -195,7 +195,7 @@ Legend:
 ### Phase 0 — Infrastructure
 - [DONE] Git repository
 - [DONE] GitHub Pages
-- [DONE] initial TechReg website / control-room concept
+- [DONE] initial tecReg website / control-room concept
 - [IN PROGRESS] EU.org domain
 - [DONE] local source-library structure
 
@@ -250,7 +250,7 @@ Legend:
 - [LATER] EU baseline ↔ South Korea differences
 - [LATER] Japan ↔ South Korea derived comparison
 
-### Phase 7 — TechReg assessment prototype
+### Phase 7 — tecReg assessment prototype
 - [LATER] AI governance maturity assessment
 - [LATER] ISO 27001 awareness / implementation / certification
 - [LATER] ISO 27701 awareness / implementation / certification
@@ -295,7 +295,7 @@ Only after this milestone should large-scale extraction begin.
 
 ## 7. Update and modification control
 
-This becomes a permanent TechReg subsystem.
+This becomes a permanent tecReg subsystem.
 
 ### Fields to maintain in `source_register.csv`
 
@@ -426,9 +426,9 @@ until source control is stable.
 
 ---
 
-## 10. Definition of TechReg v0.3
+## 10. Definition of tecReg v0.3
 
-TechReg v0.3 should contain:
+tecReg v0.3 should contain:
 
 - controlled source library
 - one master source register
