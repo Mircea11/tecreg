@@ -1,6 +1,6 @@
-# TechReg Observatory
+# TecReg Observatory
 
-TechReg Observatory is a prototype project by Sinapsa focused on EU AI, data and cybersecurity regulation.
+TecReg Observatory is a prototype project by Sinapsa focused on EU AI, data and cybersecurity regulation.
 
 The project aims to reduce the burden of regulatory monitoring for European AI developers, companies, students and professionals by translating complex legal requirements into practical guidance, obligation maps, dashboards and source-based AI assistance.
 
